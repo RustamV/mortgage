@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import { Table, Select, Input, Form, Button } from "antd";
+import { Select, Input, Form, Button } from "antd";
 
 const dataSource = [
     {
